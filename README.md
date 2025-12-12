@@ -1,6 +1,6 @@
 # **SAVR**
 
-> 🥈 2nd Place at the **GreatUniHack** — Elevenlabs Challenge
+> 🥈 **2nd Place** at the **GreatUniHack** — **Housr Challenge**
 
 ![Photo 1](photos/photo1.png)
 
